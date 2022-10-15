@@ -1,0 +1,39 @@
+para executar o programa: abra o cmd, vá para o diretorio da 
+pasta do programa e digite "java -jar GJMP_ATV01_Nivelamento.jar" sem aspas
+
+
+dados.txt--------------------------------------------
+base de dados inicial e comum para todas as estruturas, onde cada linha é um dado
+
+comandos.txt---------------------------------------------
+
+[ESTRUTURA_DE_DADO] [FUNÇÃO] [DADO]
+
+ESTRUTURA_DE_DADO: lista,pilha,fila,arvore_binaria
+FUNÇÃO: adicionar, remover, buscar, imprimir
+DADO(S): dados para serem manipulados pela função, caso seja necessario
+
+EXEMPLOS:
+lista adicionar INDICE DADO
+lista remover DADO
+lista imprimir
+lista buscar DADO
+
+pilha adicionar DADO
+pilha remover
+pilha remover DADO
+pilha buscar DADO
+pilha imprimir
+
+fila adicionar DADO
+fila remover
+fila remover DADO
+fila imprimir
+fila buscar DADO
+
+arvore_binaria adicionar DADO
+arvore_binaria remover DADO
+arvore_binaria imprimir pre-ordem
+arvore_binaria imprimir pos-ordem
+arvore_binaria imprimir ordem
+arvore_binaria buscar DADO

@@ -1,0 +1,40 @@
+lista imprimir
+lista remover barrosddd
+lista adicionar 1 matheus
+lista adicionar 2 pedro
+lista adicionar 3 qwe
+lista imprimir
+lista buscar matheus
+lista imprimir
+lista buscar 125
+lista imprimir
+pilha imprimir
+pilha remover barrosddd
+pilha adicionar 1 matheus
+pilha adicionar 2 pedro
+pilha adicionar 3 qwe
+pilha imprimir
+pilha buscar matheus
+pilha imprimir
+pilha buscar 125
+pilha imprimir
+fila imprimir
+fila remover barrosddd
+fila adicionar 1 matheus
+fila adicionar 2 pedro
+fila adicionar 3 qwe
+fila imprimir
+fila buscar matheus
+fila imprimir
+fila buscar 125
+fila imprimir
+arvore_binaria imprimir ordem
+arvore_binaria remover barrosddd
+arvore_binaria adicionar 1 matheus
+arvore_binaria adicionar 2 pedro
+arvore_binaria adicionar 3 qwe
+arvore_binaria imprimir ordem
+arvore_binaria buscar matheus
+arvore_binaria imprimir ordem
+arvore_binaria buscar 125
+arvore_binaria imprimir ordem
