@@ -1,3 +1,4 @@
-Atividade 01 Nivelamento
+# Atividade 01 Nivelamento
+
 Desenvolver em Java, classes que representem as estruturas de dados: Lista Encadeada Dupla, Pilha Dinâmica, Fila Dinâmica e Árvore Binária. Deve haver no mínimo as funcionalidades básicas (inserir, remover, buscar e imprimir). Os dados de entrada deverão ser lidos de um arquivo texto. Podem ser utilizados quaisquer recursos da linguagem, desde que seja possível executar as funções básicas sem restrições. 
 Cada equipe deverá testar as estruturas propostas pelas outras equipes, inclusive comparando com a sua. O teste consiste em verificar as funcionalidades de cada estrutura, principalmente com uma entrada de dados diferente da utilizada pelos autores. Deverá ser atribuída uma nota para cada equipe, de maneira a ser criado um ranking. O ranking deverá ser justificado com a escrita de um relatório detalhado sobre a avaliação das estruturas de cada equipe.
