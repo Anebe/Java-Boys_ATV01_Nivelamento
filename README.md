@@ -1,18 +1,3 @@
-## Getting Started
-
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Atividade 01 Nivelamento
+Desenvolver em Java, classes que representem as estruturas de dados: Lista Encadeada Dupla, Pilha Dinâmica, Fila Dinâmica e Árvore Binária. Deve haver no mínimo as funcionalidades básicas (inserir, remover, buscar e imprimir). Os dados de entrada deverão ser lidos de um arquivo texto. Podem ser utilizados quaisquer recursos da linguagem, desde que seja possível executar as funções básicas sem restrições. 
+Cada equipe deverá testar as estruturas propostas pelas outras equipes, inclusive comparando com a sua. O teste consiste em verificar as funcionalidades de cada estrutura, principalmente com uma entrada de dados diferente da utilizada pelos autores. Deverá ser atribuída uma nota para cada equipe, de maneira a ser criado um ranking. O ranking deverá ser justificado com a escrita de um relatório detalhado sobre a avaliação das estruturas de cada equipe.
